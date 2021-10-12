@@ -3,7 +3,7 @@ Website to check Covid19 patient and availability of beds
 
 ## Functionality
 In our Covid-Bed Project, The purpose is to check whether a covid positive tested patient requires to be admitted in hospital and if so, he/she can a book a bed in a hospital of his/her choice.
-The Frontend of this project was handled by me and the Backend of this project was handled by [Meet Rajkotiya](https://github.com/meet1509) and Gaurang Maheshwari
+The Frontend of this project was handled by me and the Backend of this project was handled by [Meet Rajkotiya](https://github.com/meet1509) and [Gaurang Maheshwari](https://github.com/GaurangMaheshwari4)
 
 ## Technologies Used
 ### 1.	FrontEnd:
@@ -20,6 +20,19 @@ Fork, then download or clone the repo
 ```
 git clone https://github.com/shivam-0105/Covid-Bed.git
 ```
+Then install pip using https://pip.pypa.io/en/latest/installing/ and follow the Installing with get-pip.py instructions.
+Then install virtualenv and virtualenvwrapper, which provides a dedicated environment for each Django project you create
+```
+pip install virtualenvwrapper-win
+```
+Then create a virtual environment for the cloned project
+```
+mkvirtualenv myproject
+```
+Then install Django using
+```
+pip install django
+```
 Then go the static file and run the index.html file.
 You are now good to go :)
 
@@ -33,7 +46,7 @@ You are now good to go :)
 ## Contributor
 1. [19BCE150 - Shivam Panchal](https://github.com/shivam-0105)
 2. [19BCE216 - Meet Rajkotiya](https://github.com/meet1509)
-3. 19BEC034 - Gaurang Maheshwari
+3. [19BEC034 - Gaurang Maheshwari](https://github.com/GaurangMaheshwari4)
 
 I hope you enjoy the our work
 
